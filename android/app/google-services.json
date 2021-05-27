@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228429768647",
+    "project_id": "flash-chat-7167f",
+    "storage_bucket": "flash-chat-7167f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228429768647:android:25a73bc245b5a3546edbe2",
+        "android_client_info": {
+          "package_name": "co.bergony.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228429768647-nglrhdu4458hcnqi2v66opu0har2icl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rvEv9aXR1Ys90qvNissp4ma986ZvS_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228429768647-nglrhdu4458hcnqi2v66opu0har2icl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
